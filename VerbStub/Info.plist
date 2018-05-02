@@ -52,9 +52,9 @@
 		<key>com.apple.iokit.IOPCIFamily</key>
 		<string>2.9</string>
 		<key>com.apple.kpi.iokit</key>
-		<string>16.6</string>
+		<string>15.6</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>16.6</string>
+		<string>15.6</string>
 	</dict>
 </dict>
 </plist>
